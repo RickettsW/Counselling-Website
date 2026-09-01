@@ -1,0 +1,54 @@
+Navigation
+----------------------------------
+
+Logo        Home Services Contact
+
+----------------------------------
+
+Hero
+Big image
+Business name
+Book Now button
+
+----------------------------------
+
+Services
+
+[Nails] [Brows] [Lashes]
+
+----------------------------------
+
+Gallery
+
+Pictures
+
+----------------------------------
+
+Areas We Cover
+
+• Cardiff
+• Barry
+• Newport
+...
+
+----------------------------------
+
+Contact
+
+Phone
+Facebook
+Instagram
+
+----------------------------------
+
+Footer
+
+CLASSES
+------------------
+nav-bar
+hero
+about-me
+areas
+approach
+contact
+footer
