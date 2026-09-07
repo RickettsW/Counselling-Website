@@ -18,7 +18,6 @@ const closeModal = function () {
   currentModal = null;
 };
 
-//This function is made to adhere to DRY. Dont repear yourself.
 for (let i = 0; i < btnsOpenModal.length; i++)
   btnsOpenModal[i].addEventListener('click', openModal);
 
@@ -27,9 +26,6 @@ for (let i = 0; i < btnsCloseModal.length; i++) {
 }
 
 overlay.addEventListener('click', closeModal);
-//keydown when pressed
-//key up when let go
-//keypress when holding key
 document.addEventListener('keydown', function (e) {
   if (e.key === 'Escape' && currentModal) closeModal();
 });
