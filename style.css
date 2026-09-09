@@ -268,9 +268,10 @@ section {
   background-color: #f1ece6;
 }
 
-.contact-me h1 {
+.contact-me h2 {
   padding-top: 20px;
   text-align: center;
+  font-size: 2em;
 }
 
 input,
