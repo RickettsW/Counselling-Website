@@ -2,6 +2,6 @@
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://still-waters.uk/</loc>
+    <loc>https://still-waters-counselling.netlify.app/</loc>
   </url>
 </urlset>

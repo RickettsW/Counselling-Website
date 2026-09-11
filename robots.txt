@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://still-waters-counselling.netlify.app/sitemap.xml
+Sitemap: https://still-waters.uk/sitemap.xml
